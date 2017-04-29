@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Theme_Text">25sp</dimen>
+    <dimen name="menu_text">18sp</dimen>
+    <dimen name="menu_height">150dp</dimen>
+    <dimen name="menu_padding">10dp</dimen>
+    <dimen name="margin_left">15dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+    <dimen name="edit_height">40dp</dimen>
+    <dimen name="edit_text">20dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>克拉索夫斯基椭球</item>
+        <item>西安80椭球</item>
+        <item>WGS-84椭球</item>
+        <item>CGCS2000椭球</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">测量计算器</string>
+    <string name="menu1_name">坐标正反算</string>
+    <string name="menu2_name">空间坐标转换</string>
+    <string name="menu3_name">四参数计算</string>
+    <string name="menu4_name">七参数计算</string>
+    <string name="menu5_name">图幅号计算</string>
+    <string name="menu6_name">使用帮助</string>
+</resources>
